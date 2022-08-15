@@ -1,21 +1,22 @@
 {
-  "name": "Shershon/php-apollo",
-  "description": "php项目接入Apollo的包",
-  "type": "library",
-  "require": {
-    "php": ">=7.1.3",
-    "monolog/monolog": "^2.0"
-  },
-  "autoload": {
-    "psr-4": {
-      "Shershon\\": "src/"
-    }
-  },
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "Shershon",
-      "email": "18810877074@163.com"
-    }
-  ]
+    "name": "shershon/php-apollo",
+    "type": "library",
+    "description": "php项目接入Apollo的包",
+    "autoload": {
+        "psr-4": {
+            "Shershon\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Shershon\\Test\\": "tests"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shershon",
+            "email": "18810877074@163.com"
+        }
+    ]
 }
