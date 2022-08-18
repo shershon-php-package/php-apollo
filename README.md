@@ -19,10 +19,6 @@ php项目接入Apollo的包
     {
       "type": "git",
       "url": "https://github.com/shershon-php-package/php-apollo.git"
-    },
-    {
-      "type": "git",
-      "url": "https://github.com/shershon-php-package/php-apollo.git"
     }
   ]
 }
