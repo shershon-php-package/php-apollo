@@ -1,5 +1,5 @@
 {
-    "name": "shershon/php-apollo",
+    "name": "shershon-php-package/php-apollo",
     "type": "library",
     "description": "php项目接入Apollo的包",
     "autoload": {
