@@ -23,12 +23,6 @@
         }
     },
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Shershon",
-            "email": "18810877074@163.com"
-        }
-    ],
     "require-dev": {
         "phpunit/phpunit": "^9.5"
     }
