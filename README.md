@@ -24,4 +24,4 @@ php项目接入Apollo的包
 }
 ```
 * composer require shershon-php-package/php-apollo
-* rm -rf vendor/shershon/php-apollo/.git
+* rm -rf vendor/shershon-php-package/php-apollo/.git
