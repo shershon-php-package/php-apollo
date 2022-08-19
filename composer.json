@@ -2,6 +2,16 @@
     "name": "shershon-php-package/php-apollo",
     "type": "library",
     "description": "php项目接入Apollo的包",
+    "homepage": "https://packagist.org/packages/shershon-php-package/php-apollo",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Shershon",
+            "email": "18810877074@163.com",
+            "homepage": "https://github.com/shershon-php-package/php-apollo.git",
+            "role": "Developer"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Shershon\\": "src/"
